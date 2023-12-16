@@ -1,5 +1,5 @@
-<p align="center">
-# ft_atoi
+# <p align="center">
+ ft_atoi
 </p>
 
 |                  |          |
